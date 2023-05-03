@@ -1,0 +1,24 @@
+#tablom{
+    border-collapse:collapse;
+    border-color: #a7c942;
+    border: 1px;
+    border-style:solid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 50%;
+    text-align: center;
+}
+#tablom td, #tablom th{
+    border: 1px,solid #98bf21;
+    font-size: 16px;
+    padding: 4px,5px,4px;
+
+}
+#tablom th{
+    background-color: #a7c942;
+    color: #ffffff;
+    font-size: 18px;
+}
+.alt{
+    background-color: #ccc;
+    
+}
